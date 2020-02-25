@@ -1,0 +1,28 @@
+
+.jumbotron{
+	background-color:gold;
+	border-radius:2.0em;
+	color:white;
+}
+nav{
+	background-color: royalblue;
+	padding:3px;
+	margin:3%;
+}
+
+article{
+	background-color:yellow;
+}
+aside{
+	background-color: cyran;
+}
+
+.carousel-inner{
+	height: 300px;
+}
+
+.carousel-inner img{
+	width: 50%;
+	height: 50%;
+}
+
